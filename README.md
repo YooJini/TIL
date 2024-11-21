@@ -3,4 +3,5 @@
 ✍️ Today I Learning
 
 ### Diary
-- [2024.11](Diary/2024.11)
+- [0.시작하는마음.md](Diary/0.시작하는마음.md)
+- [2024-11](Diary/2024-11)
