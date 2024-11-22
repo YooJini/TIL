@@ -2,7 +2,7 @@
 
 ✍️ Today I Learning
 
-[Diary](###Diary) [강의노트](###강의노트)
+[Diary](#diary) [강의노트](#강의노트)
 
 ### Diary
 - [시작하는 마음](Diary/0.시작하는마음.md)
