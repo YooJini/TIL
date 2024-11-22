@@ -5,7 +5,7 @@
 // const readmePath = path.join(baseDir, 'README.md');
 
 // // 업데이트할 폴더들을 여기에 추가
-// const foldersToTrack = ['Diary'];
+// const foldersToTrack = ['diary'];
 
 // // 특정 파일을 제외하고 싶은 경우, 이 배열에 파일 이름을 추가합니다.
 // const excludeFiles = ['.gitkeep'];

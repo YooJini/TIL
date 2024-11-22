@@ -3,7 +3,7 @@
 # on:
 #   push:
 #     paths:
-#       - 'Diary/**.md'
+#       - 'diary/**.md'
 #       - 'README.md'
       
 # jobs:
