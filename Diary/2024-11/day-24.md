@@ -1,4 +1,4 @@
-map과 foreach의 비교를 배웠다.
+[map과 foreach의 비교](https://velog.io/@wlsdl6685/웹-풀스택-개발-15-foreach와-map-비교)를 배웠다.
 
 둘다 순회를 한다는 점은 같으나
 map은 새로운 객체를 만들어 그 값을 넣어 return,
